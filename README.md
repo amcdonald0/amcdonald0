@@ -43,7 +43,7 @@ My research interests include:
 |--------|-------------|--------------|
 | 🔍 `multi-bed-browser` | Web app for uploading, analyzing, and comparing genomic BED files | `Flask`, `BEDTools`, `SQLAlchemy`, `JavaScript` |<br/>
 
-Explore more in the **[Repositories](https://github.com/yourusername?tab=repositories)** tab.
+Explore more in the **[Repositories]([https://github.com/yourusername?tab=repositories](https://github.com/amcdonald0/multibedbrowser))** tab.
 
 ---
 ## 🧭 Let's Collaborate
