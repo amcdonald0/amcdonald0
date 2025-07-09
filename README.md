@@ -54,6 +54,6 @@ I'm always open to collaborations on:
 
 📫 **Reach me at:**  
 
-[![LinkedIn](https://linkedin.com/in/www.linkedin.com/in/aretha-mcdonald)]
+[(https://linkedin.com/in/www.linkedin.com/in/aretha-mcdonald)]
 ---
 
