@@ -40,8 +40,8 @@ My research interests include:
 | Project | Description | Technologies |
 |--------|-------------|--------------|
 | 🔍 **[Multi-Bed Browser](https://github.com/amcdonald0/multibedbrowser)** | Web app for uploading, analyzing, and comparing genomic BED files | `Flask`, `BEDTools`, `SQL`, `JavaScript`, `Python` |<br/>
-|🔍 `Online-Pharmacy-Portal` | Web app for uploading, analyzing, and comparing genomic BED files | `Flask`, `BEDTools`, `SQL`, `JavaScript`, `Python` |<br/>
-Explore more in the **[Repositories](https://github.com/amcdonald0/multibedbrowser)** tab.
+| 🧪 **[Online Pharmacy Portal](https://github.com/amcdonald0/Online-Pharmacy-Portal)** | Web app will cater to the sale of pharmaceutical products, offering both a user-friendly customer interface and a robust administrative interface. The project will prioritize server-side functionality, leveraging PHP with MySQL for data persistence | `PHP`,  `SQL`, `CSS`, `HTML` |<br/>
+Explore more in the **[Repositories](https://github.com/amcdonald0?tab=repositories)** tab.
 
 ---
 ## 🧭 Let's Collaborate
