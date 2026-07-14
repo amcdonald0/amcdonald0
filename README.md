@@ -1,8 +1,10 @@
 # Hi There, I'm 👩🏽‍💻 Aretha!
 
-**Bioinformatician | Computational Biologist | Software Developer**  
+**Bioinformatician | Software Developer | Computational Biologist**  
 
-Passionate about data-driven discovery in genomics, precision medicine, and open-source science
+Passionate about technology and its intersection in solving real-life problems. 
+
+
 
 ---
 
@@ -19,6 +21,7 @@ My research interests include:
 - 🧪 Workflow automation & reproducible research<br/>  
 - 🧰 Open-source bioinformatics tool development<br/>
 
+Data-driven discovery in genomics, precision medicine, and open-source science
 
 ## Github Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amcdonald0&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
